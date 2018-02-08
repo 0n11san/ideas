@@ -2,6 +2,7 @@
 
 -api connect robinhood (stock trading) to mint (aggregate investment tracker)
 https://support.robinhood.com/hc/en-us/articles/210216823-Robinhood-API-Integrations
+https://github.com/sanko/Robinhood
 
 -api connect goodreads to track audible library
 https://www.goodreads.com/topic/show/18126587-feature-request---sync-audible-library-sync-amazon-audible-reviews?order=a&page=2
