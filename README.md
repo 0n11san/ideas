@@ -13,11 +13,5 @@
 ### financial literacy app 
 * walks folks thru the stages of solvency and points them to useful resources (e.g. rainy day fund; 'high'-yield liquid savings account; 401k/retirement; paying off high-interest debt; investments/index fund broker)
 
-| issue                                   | can an app help? | if so , how? And in concert w/ what? | consumer interest |   |
-|-----------------------------------------|------------------|--------------------------------------|-------------------|---|
-| lack of financial literacy / insolvency |      y            |        simple app that checklists steps to takes to become solvent/build future (visually appealling; steps listed from easiest/simple/most payback/quickest to harder/more complex/longer term/slower payback)                              |                   |   |
-|                                         |                  |                                      |                   |   |
-|                                         |                  |                                      |                   |   |
-|                                         |                  |                                      |                   |   |
-|                                         |                  |                                      |                   |   |
-|                                         |                  |                                      |                   |   |
+### poltical scorecard
+*political representatives not being held accountable; track reps voting records in relation to your expoused wishes on major issues like healthcare/defense/economy
