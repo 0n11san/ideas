@@ -12,3 +12,12 @@
 
 ### financial literacy app 
 * walks folks thru the stages of solvency and points them to useful resources (e.g. rainy day fund; 'high'-yield liquid savings account; 401k/retirement; paying off high-interest debt; investments/index fund broker)
+
+| issue                                   | can an app help? | if so , how? And in concert w/ what? | consumer interest |   |
+|-----------------------------------------|------------------|--------------------------------------|-------------------|---|
+| lack of financial literacy / insolvency |                  |                                      |                   |   |
+|                                         |                  |                                      |                   |   |
+|                                         |                  |                                      |                   |   |
+|                                         |                  |                                      |                   |   |
+|                                         |                  |                                      |                   |   |
+|                                         |                  |                                      |                   |   |
