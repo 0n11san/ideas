@@ -15,7 +15,7 @@
 
 | issue                                   | can an app help? | if so , how? And in concert w/ what? | consumer interest |   |
 |-----------------------------------------|------------------|--------------------------------------|-------------------|---|
-| lack of financial literacy / insolvency |                  |                                      |                   |   |
+| lack of financial literacy / insolvency |      y            |        simple app that checklists steps to takes to become solvent/build future (visually appealling; steps listed from easiest/simple/most payback/quickest to harder/more complex/longer term/slower payback)                              |                   |   |
 |                                         |                  |                                      |                   |   |
 |                                         |                  |                                      |                   |   |
 |                                         |                  |                                      |                   |   |
